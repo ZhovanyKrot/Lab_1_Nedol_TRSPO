@@ -7,23 +7,25 @@ namespace Program
     {
         static void Main(string[] args)
         {
-            Lab1();
+            Console.WriteLine("Завдання 1");
+            Lab1_task1();
             Thread.Sleep(5000);
-            Lab2();
+            Console.WriteLine("Завдання 2");
+            Lab1_task2();
 
-            static void Lab2()
+            static void Lab1_task2()
             {
                 Random rnd = new Random();
-                int m = 2;
-                int n = 2;
-                int k = 2;
+                int m = 4;
+                int n = 4;
+                int k = 4;
 
                 for (int i = 1; i < 5; i++)
                 {
                     Thread myThread = new(Masiv_Actions);
                     Console.WriteLine($"Потiк: {i}");
                     myThread.Start();
-                    Thread.Sleep(2000);
+                    Thread.Sleep(1000);
                 }
 
                 void Masiv_Actions()
@@ -85,7 +87,7 @@ namespace Program
                 }
             }
 
-            static void Lab1()
+            static void Lab1_task1()
             {
                 int x = 1;
                 for (int i = 1; i < 5; i++)

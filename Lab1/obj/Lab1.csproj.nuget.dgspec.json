@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\vsexaples\\Lab1\\Lab1.csproj": {}
+    "D:\\Git_Hub\\Lab_1_Nedol_TRSPO\\Lab1\\Lab1.csproj": {}
   },
   "projects": {
-    "D:\\vsexaples\\Lab1\\Lab1.csproj": {
+    "D:\\Git_Hub\\Lab_1_Nedol_TRSPO\\Lab1\\Lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vsexaples\\Lab1\\Lab1.csproj",
+        "projectUniqueName": "D:\\Git_Hub\\Lab_1_Nedol_TRSPO\\Lab1\\Lab1.csproj",
         "projectName": "Lab1",
-        "projectPath": "D:\\vsexaples\\Lab1\\Lab1.csproj",
+        "projectPath": "D:\\Git_Hub\\Lab_1_Nedol_TRSPO\\Lab1\\Lab1.csproj",
         "packagesPath": "C:\\Users\\JVi\\.nuget\\packages\\",
-        "outputPath": "D:\\vsexaples\\Lab1\\obj\\",
+        "outputPath": "D:\\Git_Hub\\Lab_1_Nedol_TRSPO\\Lab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JVi\\AppData\\Roaming\\NuGet\\NuGet.Config"
